@@ -1,5 +1,10 @@
 [
   {
+  "versionCode": 2,
+  "downloadUrl": "https://github.com/Noob20255/gsm-data/releases",
+  "message": "A new version of GSM ISP Finder is available! Please update for new images and better performance."
+}
+  {
     "name": "MT6855V",
     "url": "https://drive.google.com/uc?export=view&id=1bv11RYXBOt4S8CjD9pIlsAZ7MPoVvL3Y"
   },
